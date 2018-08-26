@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node app",
+    "start": "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-    "node":"8.11.3"
+    "node": "8.11.3"
   },
   "author": "",
   "license": "ISC",
