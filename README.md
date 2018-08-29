@@ -1,4 +1,4 @@
-# my server in heroku server
+# my server in heroku:
 ```bash
 https://angularprojectseldat.herokuapp.com
 ```
